@@ -2,9 +2,8 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/rgsecteam/rgsectm/refs/heads/main/image/thumbinels/falcon.png">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 </p>
-
+<img src="https://img.shields.io/badge/License-MIT-blue.svg">
 # What is Falcon-Hijacker?
 <p>Falcon Hijacker is a professional clipboard monitoring tool designed for authorized security assessments. It captures real-time clipboard data from target systems through a streamlined bash interface.</p>
 
