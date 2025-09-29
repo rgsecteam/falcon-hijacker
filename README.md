@@ -12,6 +12,8 @@
 ## This Tool Tested On :
   - Kali Linux
   - Parrot Sec OS
+  - ~~Termux~~ (Not tested)
+
 
 
 ## 📊 Advanced Monitoring
@@ -64,7 +66,6 @@ Stop-Process -Name powershell -Force
 By using the materials in this repository you agree to:
 - Use the information only for defensive, educational, or research purposes in controlled environments.
 - Follow all applicable laws and organizational policies.
-- Not distribute or operationalize any malicious code.
 - **Do not** use this repository to harm others. Always obtain explicit permission before testing on systems you do not own.
 
 #### For More Video subcribe <a href="http://youtube.com/@RGSecurityTeam">RGSecurityTeam YouTube Channel</a>
