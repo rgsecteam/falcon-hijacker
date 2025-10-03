@@ -20,7 +20,6 @@
 
   - **Live Data Stream:** Real-time clipboard viewing
   - **Structured Logging:** Timestamped entries with metadata
-  - **Multiple Targets:** Capture from multiple machines simultaneously
   - **Export Ready:** Clean log format for analysis
 
 ## PowerShell Payload (clipboard_logger.ps1)
@@ -67,6 +66,9 @@ By using the materials in this repository you agree to:
 - Use the information only for defensive, educational, or research purposes in controlled environments.
 - Follow all applicable laws and organizational policies.
 - **Do not** use this repository to harm others. Always obtain explicit permission before testing on systems you do not own.
+
+### Video Demo
+[![Falcon-hijacker Demo](https://img.youtube.com/vi/F2320sUPvbI/0.jpg)](https://www.youtube.com/watch?v=F2320sUPvbI)
 
 #### For More Video subcribe <a href="http://youtube.com/@RGSecurityTeam">RGSecurityTeam YouTube Channel</a>
 
